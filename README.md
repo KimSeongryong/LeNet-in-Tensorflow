@@ -18,7 +18,7 @@ Activation 2: Your choice of activation function.
 
 Pooling layer 2: The output shape should be 5x5x16.
 
-Flatten layer: Flatten the output shape of the final pooling layer such that it's 1D instead of 3D. 
+Flatten layer: Flatten the output shape of the final pooling layer such that it's 1D instead of 3D.
 
 Fully connected layer 1: This should have 120 outputs.
 
@@ -27,3 +27,5 @@ Activation 3: Your choice of activation function.
 Fully connected layer 2: This should have 10 outputs.
 
 Return the result of the 2nd fully connected layer from the LeNet function.
+
+### Kim Seongryong.....
